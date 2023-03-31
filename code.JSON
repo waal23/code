@@ -48,7 +48,6 @@
          "product_name":"Product 03",
          "price":"$0.20",
          "sku_id":"prod_03",
-         "dummy_text":"waal",
          "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_03.png",
          "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_03.psd",
          "is_free":false,
