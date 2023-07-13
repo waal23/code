@@ -28,6 +28,7 @@
    "Products":[
       {
          "product_name":"Product 01",
+         "description_title":"Product 01",
          "price":"$0.30",
          "sku_id":"prod_01",
          "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_01.png",
