@@ -2,11 +2,11 @@
    "Categories":[
       {
          "cat_name":"Cat 01",
-         "img":"https://www.codingstore.net/storage/covers/11056.png"
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_01.png"
       },
       {
          "cat_name":"Cat 02",
-         "img":"https://www.codingstore.net/storage/covers/11056.png"
+         "img":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Category/cat_02.png"
       },
       {
          "cat_name":"Cat 03",
@@ -28,7 +28,7 @@
    "Products":[
       {
          "product_name":"Product 01",
-         "price":"$0.11110",
+         "price":"$0.30",
          "sku_id":"prod_01",
          "img_url":"https://raw.githubusercontent.com/TaiyabMachhaliy/JSON/main/DPS/Products%20Preview%20Image/Sample_PSD_01.png",
          "product_url":"https://github.com/TaiyabMachhaliy/JSON/raw/main/DPS/Products/Sample_PSD_01.psd",
